@@ -2,7 +2,7 @@
 
  <div>
    <a href="https://github.com/Elivelton">
-   <img height="180em" src="P_20251023_162934"/>
+   
 </div>
     
 <div style="display: inline_block"><br>
